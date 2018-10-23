@@ -1,4 +1,4 @@
-# NodeJS_restApis
+# NodeJS RestApis
 
 
 <h2>Simple Rest Api using NodeJS, mongoDB, Mongoose, mlab </h2>
