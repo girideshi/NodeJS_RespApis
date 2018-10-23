@@ -1,23 +1,26 @@
 # NodeJS_restApis
 
 
-Simple Rest Apis using NodeJS, mongoDB, Mongoose, mlab Db 
+<h2>Simple Rest Api using NodeJS, mongoDB, Mongoose, mlab </h2>
 
-No UI, rest services can be run on POSTMAN or Browser URL: http://localhost:3150
+Run on POSTMAN or Browser URL: http://localhost:3150
 
-Starting the application
-Requirements
-
-Node.js
-
-NPM
+Application Requirements
+<ul>
+ <li>
+   <b>Node.js</b>
+  </li>
+  <li>
+    <b>NPM</b>
+  </li>
+  </ul>
 
 Installing packages
 Run the command below to install the dependencies:
 
-npm install
+<b>npm install</b>
 
 Starting the server
 Run the command below to start Nodejs and connect to the MongoDB database:
 
-npm run server
+<b>npm run server</b>
