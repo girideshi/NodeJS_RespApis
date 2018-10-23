@@ -9,7 +9,7 @@ const orderRoutes = require('./api/routes/orders');
 const userRoutes = require('./api/routes/Users');
 
 
-//mongoose.connect('mongodb://girimlab:G1r1mlab@ds133360.mlab.com:33360/mycreactcruduser');
+//mongoose.connect('mongodb://XXXXXX:XXXXX@XXXXX.mlab.com:33360/XXXXX');
 
 mongoose.connect('mongodb://XXXXXX:XXXXX@XXXXX.mlab.com:33360/XXXXX')
   .then(() => console.log('Connected to Database girimlab'))
