@@ -24,3 +24,8 @@ Starting the server
 Run the command below to start Nodejs and connect to the MongoDB database:
 
 <b>npm run server</b>
+
+<h3> Call Api using POSTMAN </h3>
+
+![usage ](https://user-images.githubusercontent.com/18717605/47423164-fda5ad00-d7a1-11e8-85c3-bfe92147bfb3.png)
+
